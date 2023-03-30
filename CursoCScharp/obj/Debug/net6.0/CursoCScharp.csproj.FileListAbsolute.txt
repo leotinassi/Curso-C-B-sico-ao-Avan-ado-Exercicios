@@ -1,0 +1,15 @@
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.exe
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.deps.json
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.runtimeconfig.json
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.dll
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\bin\Debug\net6.0\CursoCScharp.pdb
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.dll
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\refint\CursoCScharp.dll
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.pdb
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\CursoCScharp.genruntimeconfig.cache
+C:\Users\Leonardo\source\repos\Curso Cod3R\CursoCScharp\CursoCScharp\obj\Debug\net6.0\ref\CursoCScharp.dll
